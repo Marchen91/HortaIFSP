@@ -1,6 +1,8 @@
 # HortaIFSP
 Código e explicação da horta automatizada conectada a uma máquina virtual Azure.
 
+IP máquina: 74.179.84.129
+
 Foi utilizada uma máquina Ubuntu 24.04 que está rodando um broker MQTT, um banco de dados MySQL e um servidor Node-Red.
 
 ![Maquina criada na Azure](maquinaazure.jpg)
